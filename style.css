@@ -1,0 +1,51 @@
+  header{
+    background-color: red;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+ul{
+    display: flex;
+  width: 600px;
+ list-style: none;
+ align-items: center;
+ justify-content: space-between;
+}
+li{
+    color: white;
+    cursor: pointer;
+    justify-content: space-between;
+}
+
+#sh{
+ background-color: white;
+ height: 35px;
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+ border-color: black;
+}
+#ssh{
+  display: flex;
+width: 1000px;
+list-style: none;
+align-items: center;
+justify-content: space-between;
+}
+li{
+  color:black;
+  cursor: pointer;
+  justify-content: space-between;
+}
+
+button{
+  background-color: white;
+  
+  height: 30px;
+    width: 120px;
+    border: black;
+    border-radius: 15px;
+    color: black;
+}
